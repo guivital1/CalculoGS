@@ -20,3 +20,7 @@ Este projeto simula o monitoramento de uma bacia de contenção durante uma temp
 
 * Dados Retirados do Ministério da Integração e do Desenvolvimento Regional
 * Códigos utilizados em sala de aula + aulas de Alura que aprofundaram mais no tema
+
+# link do vídeo 
+
+https://youtu.be/l-R0jsjoi9k
